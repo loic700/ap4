@@ -1,9 +1,9 @@
 
-Mise en place du routage ![[Pasted image 20260203084706.png]]
+Mise en place du routage ![Configuration des Gateways pfSense](images/pfsense_gateways.png)
 
 Mise en place des règle de Firewall
-![[Pasted image 20260203084742.png]]
+![Configuration des Gateways pfSense](images/pfsense_gateways1.png)
 
 Mise en place du NAT
-![[Pasted image 20260203084813.png]]
+![Configuration des Gateways pfSense](images/pfsense_gateways2.png)
 

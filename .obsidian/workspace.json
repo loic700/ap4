@@ -191,12 +191,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Document technique/Installation nextcloud - docker.md",
+                "file": "Document technique/Installation d'un Pfsense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation nextcloud - docker"
+              "title": "Installation d'un Pfsense"
             }
           }
         ],
@@ -358,14 +358,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0a60f63d5147d01c",
+  "active": "40ebe8c7d842d0ed",
   "lastOpenFiles": [
+    "Images/pfsense_gateways1.png",
+    "Images/pfsense_gateways2.png",
+    "Images/pfsense_gateways.png",
     "Document technique/Installation d'un Pfsense.md",
+    "Pasted image 20260203113554.png",
+    "Mission 1/Pasted image 20260203113043.png",
     "Document technique/Installation nextcloud - docker.md",
-    "Image/Pasted image 20260203084813.png",
-    "Image/Pasted image 20260203084742.png",
-    "Image/Pasted image 20260203084706.png",
-    "Image",
+    "Images",
     "Image/Pasted image 20260203084628.png",
     "Bienvenue.md",
     "Document technique",
@@ -401,8 +403,6 @@
     "atest 1/B2/Pasted image 20251107115739.png",
     "Pasted image 20251107115739.png",
     "Semestre1/B2 Gillard/Document/Pasted image 20251107110651.png",
-    "Semestre1/B2 Gillard/Document/Pasted image 20251107100542.png",
-    "Semestre1/B2 Gillard/Document/Pasted image 20251107115316.png",
     "Semestre2/B2 Gillard/Document/Sans titre.canvas",
     "Semestre2/B2 1/Tp1 Cluster SRV Win core.md",
     "Semestre1/B2/testtttt.md"
