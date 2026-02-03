@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "956e4099318511f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f5bf74e53dba7b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2988b64508edc2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre1/B2 Gillard/TP3 infra pfsence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP3 infra pfsence"
+            }
+          },
+          {
+            "id": "d55d332d70647374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre1/B2 Gillard/TP3 infra pfsence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP3 infra pfsence"
+            }
+          },
+          {
+            "id": "9106d82f5aa28bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre2/l'empereur/IP V6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP V6"
+            }
+          },
+          {
+            "id": "80cd505dfa786a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre2/l'empereur/IP V6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP V6"
+            }
+          },
+          {
+            "id": "aa4f618676459684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre2/l'empereur/IP V6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP V6"
+            }
+          },
+          {
+            "id": "529fc8c0f8ee6ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre2/l'empereur brain/Entreprise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entreprise"
+            }
+          },
+          {
+            "id": "bd48e82c2fc0d7f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "a366afb618e8e7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changement a effectué.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Changement a effectué"
+            }
+          },
+          {
+            "id": "7e802b4ffed53403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backup/SW03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SW03"
+            }
+          },
+          {
+            "id": "13d315d50769e15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backup/SW03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SW03"
+            }
+          },
+          {
+            "id": "52f5d26971e3017c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backup/SW05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SW05"
+            }
+          },
+          {
+            "id": "3c1988edf0e936c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mission 1 _ Infrastructure système et réseau (1)"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7eca19491f99c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "256a8632b2dd58a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ebe8c7d842d0ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "d97f31cc07ecdaed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9e3b7a4208e4f609",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f4afee5092e315",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e05bf41d2aa2c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0eb139277d430ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "609056ca95ee11bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semestre2/TP2 Pfsence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de TP2 Pfsence"
+            }
+          },
+          {
+            "id": "7862cee02c2b8973",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "8942acf4105ec88e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semestre2/B2 Gillard/TP3 infra pfsence.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de TP3 infra pfsence"
+            }
+          },
+          {
+            "id": "03b8cdb9ed031d9b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3c1988edf0e936c2",
+  "lastOpenFiles": [
+    "Mission 1/Contexte du projet.pdf",
+    "📑 Mission 1.md",
+    "📑 Mission 1.md",
+    "Nouveau Document texte (2).txt",
+    "Nouveau Document texte.txt",
+    "Changement a effectué.md",
+    "Backup/SW03.md",
+    "Shemas/Mission1.drawio",
+    "Shemas/shéma_logique.drawio",
+    "Shemas",
+    "Nouveau dossier (3)",
+    "Nouveau dossier (2)",
+    "Nouveau dossier",
+    "shéma_logique.drawio",
+    "Copie de shéma_logique.drawio",
+    "Backup/SW05.md",
+    "Backup/SW15.md",
+    "Backup/RTR.md",
+    "📑 Mission 1 (2).md",
+    "README.md",
+    "Mission 1/📑 Mission 1.md",
+    "AP3 lempereur/📑 Mission 1.md",
+    "AP3 lempereur/Bienvenue.md",
+    "Semestre1/B2 Gillard/Tp1 Cluster SRV Win core.md",
+    "Semestre1/B2 Gillard/TP2 Pfsence.md",
+    "Semestre2/l'empereur/ACL Access Control Lint.md",
+    "Semestre2/l'empereur/IP V6.md",
+    "Semestre2/l'empereur brain/Entreprise.md",
+    "Semestre1/B2 Gillard/TP3 infra pfsence.md",
+    "Semestre1/B2 Gillard/Document/TP3.canvas",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107100511.png",
+    "atest 1/B2/Tp1 Cluster SRV Win core.md",
+    "atest 1/B2/Pasted image 20251107115739.png",
+    "Pasted image 20251107115739.png",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107110651.png",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107100542.png",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107115316.png",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107110712.png",
+    "Semestre1/B2 Gillard/Document/Pasted image 20251107114520.png",
+    "Semestre2/B2 Gillard/Pasted image 20251107110712.png",
+    "Semestre2/B2 Gillard/Document/Sans titre.canvas",
+    "Semestre2/B2 1/Tp1 Cluster SRV Win core.md",
+    "Semestre1/B2/testtttt.md"
+  ]
+}
