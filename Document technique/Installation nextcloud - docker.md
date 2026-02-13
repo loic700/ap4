@@ -1,5 +1,14 @@
 [installation docker ](https://doc.ubuntu-fr.org/docker)
 
+Se connecter en SSH 
+```
+ssh -J admin@192.168.202.11 fl_ap4_docker01@10.10.10.1
+```
+
+IP : 10.10.10.1
+Masque : 255.255.255.0
+Passerelle : 10.10.10.254
+
 config du docker compose 
 
 ```

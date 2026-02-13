@@ -8,184 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2988b64508edc2dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre1/B2 Gillard/TP3 infra pfsence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TP3 infra pfsence"
-            }
-          },
-          {
-            "id": "d55d332d70647374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre1/B2 Gillard/TP3 infra pfsence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TP3 infra pfsence"
-            }
-          },
-          {
-            "id": "9106d82f5aa28bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre2/l'empereur/IP V6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IP V6"
-            }
-          },
-          {
-            "id": "80cd505dfa786a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre2/l'empereur/IP V6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IP V6"
-            }
-          },
-          {
-            "id": "aa4f618676459684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre2/l'empereur/IP V6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IP V6"
-            }
-          },
-          {
-            "id": "529fc8c0f8ee6ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre2/l'empereur brain/Entreprise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entreprise"
-            }
-          },
-          {
-            "id": "bd48e82c2fc0d7f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "a366afb618e8e7a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Changement a effectué.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Changement a effectué"
-            }
-          },
-          {
-            "id": "7e802b4ffed53403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup/SW03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SW03"
-            }
-          },
-          {
-            "id": "13d315d50769e15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup/SW03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SW03"
-            }
-          },
-          {
-            "id": "52f5d26971e3017c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backup/SW05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SW05"
-            }
-          },
-          {
-            "id": "3c1988edf0e936c2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Mission 1 _ Infrastructure système et réseau (1)"
-            }
-          },
-          {
-            "id": "06412f79bf4819a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document technique/Installation d'un Pfsense.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Installation d'un Pfsense"
-            }
-          },
-          {
             "id": "0a60f63d5147d01c",
             "type": "leaf",
             "state": {
@@ -198,9 +20,63 @@
               "icon": "lucide-file",
               "title": "Installation d'un Pfsense"
             }
+          },
+          {
+            "id": "62c7b149f435075e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document technique/Installation d'un Pfsense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installation d'un Pfsense"
+            }
+          },
+          {
+            "id": "bfeb40606bb3e578",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mission 1 _ Infrastructure système et réseau (1)"
+            }
+          },
+          {
+            "id": "93ca147967c34ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document technique/install srv-web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "install srv-web"
+            }
+          },
+          {
+            "id": "fc3310d820fa9825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document technique/Installation SRV windows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installation SRV windows"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -360,19 +236,25 @@
   },
   "active": "40ebe8c7d842d0ed",
   "lastOpenFiles": [
+    "Document technique/Installation nextcloud - docker.md",
+    "Document technique/Installation d'un Pfsense.md",
+    "Document technique/Installation SRV windows.md",
+    "images/Pasted image 20260213115514.png",
+    "images/Pasted image 20260213115404.png",
+    "Document technique/Install srv-bdd.md",
+    "Document technique/install srv-web.md",
+    "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf",
+    "SRV windows.md",
+    "Mission 1/Contexte du projet.pdf",
     "images/pfsense_gateways1.png",
     "images/pfsense_gateways2.png",
     "images/pfsense_gateways.png",
-    "Document technique/Installation d'un Pfsense.md",
     "Pasted image 20260203113554.png",
     "Mission 1/Pasted image 20260203113043.png",
-    "Document technique/Installation nextcloud - docker.md",
     "images",
     "Image/Pasted image 20260203084628.png",
     "Bienvenue.md",
     "Document technique",
-    "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf",
-    "Mission 1/Contexte du projet.pdf",
     "📑 Mission 1.md",
     "📑 Mission 1.md",
     "Nouveau Document texte (2).txt",
@@ -399,12 +281,7 @@
     "Semestre1/B2 Gillard/TP3 infra pfsence.md",
     "Semestre1/B2 Gillard/Document/TP3.canvas",
     "Semestre1/B2 Gillard/Document/Pasted image 20251107100511.png",
-    "atest 1/B2/Tp1 Cluster SRV Win core.md",
     "atest 1/B2/Pasted image 20251107115739.png",
-    "Pasted image 20251107115739.png",
-    "Semestre1/B2 Gillard/Document/Pasted image 20251107110651.png",
-    "Semestre2/B2 Gillard/Document/Sans titre.canvas",
-    "Semestre2/B2 1/Tp1 Cluster SRV Win core.md",
-    "Semestre1/B2/testtttt.md"
+    "Semestre2/B2 Gillard/Document/Sans titre.canvas"
   ]
 }
