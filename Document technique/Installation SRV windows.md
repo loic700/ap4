@@ -8,7 +8,8 @@ install DHCP
 Install DNS 
 Install AD (HVO.local)
 + Création des Uo
- ![](Pasted%20image%2020260213115404.png)
- ![](Pasted%20image%2020260213115514.png)
+ ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260213115404.png)
+  ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260213115514.png)
 Création des GPO
 - Outils  --> strategie de groupes 
+- 
