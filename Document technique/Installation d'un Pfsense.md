@@ -1,16 +1,22 @@
+
+Identifiants
+admin
+pfsense
+
+
 Mise en place du routage ![Configuration des Gateways pfSense](../images/pfsense_gateways.png)
 
 Mise en place des règle de Firewall
 
 pour un projet on a un
 
-reseaux wan
+Réseaux wan
 
-reseaux lan 10.10.10.0 Server
+Réseaux lan_server 10.10.10.0 Server
 
-reseaux opt 10.10.20.0 admin
+Réseaux opt1_admin 10.10.20.0 admin
 
-reseaux opt2 10.10.30.0 client
+Réseaux opt2_clients 10.10.30.0 client
 
   
 
@@ -18,13 +24,23 @@ on bloque tout les port
 
 automatisation https et http
 
-regle automatisé DNS vers DNS dampierre
+règle automatisé DNS vers DNS Dampierre
 
 client + admin DNS vers gestion
 
 Admin vers gestion admin AD
 
-![Configuration des Gateways pfSense](../images/pfsense_gateways1.png)
+Mise en place de differante regle 
 
-Mise en place du NAT
-![Configuration des Gateways pfSense](../images/pfsense_gateways2.png)
+
+
+
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085447.png)
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085607.png)
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085715.png)
+
+Mise en place du Nat en hybrid outbound nat rule generation ( automatic Outbound NAT+ rules below)
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085818.png)
