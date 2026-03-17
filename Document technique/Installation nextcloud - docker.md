@@ -5,6 +5,10 @@ Se connecter en SSH
 ssh -J admin@192.168.202.11 fl_ap4_docker01@10.10.10.1
 ```
 
+fl_ap4_docker01
+P@ssword/59
+
+
 IP : 10.10.10.1
 Masque : 255.255.255.0
 Passerelle : 10.10.10.254

@@ -31,3 +31,5 @@ Création des GPO
 
 
 Mise en place des GPO , ajout des Groupe au GPO ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310091555.png)
+
+
