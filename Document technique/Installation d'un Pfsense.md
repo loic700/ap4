@@ -1,4 +1,10 @@
-
+```
+ssh admin@192.168.202.11
+```
+faire le stunnel ssh depuis pc au site pour recuperer le fichier vpn 
+```
+ssh -L 8443:10.10.30.254:80 admin@192.168.202.11
+```
 Identifiants
 admin
 pfsense
