@@ -88,3 +88,6 @@ server {
     }
 }
 ```
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260331115523.png)
+
