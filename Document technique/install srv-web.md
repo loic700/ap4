@@ -6,6 +6,9 @@ IP : 10.10.30.1
 Masque : 255.255.255.0
 Passerelle : 10.10.10.254
 
+srv-web
+P@ssword/59
+
 Installation du package apache2
 
 
@@ -33,3 +36,40 @@ config sur
     CustomLog ${APACHE_LOG_DIR}/cli1_access.log combined
 </VirtualHost>
 ```
+
+
+
+
+
+creation bdd
+
+```
+CREATE DATABASE wordpress_db;
+CREATE USER 'wp_user'@'10.10.30.1' IDENTIFIED BY 'P@ssword/59';
+GRANT ALL PRIVILEGES ON wordpress_db.* TO 'wp_user'@'10.10.30.1';
+FLUSH PRIVILEGES;
+EXIT;
+```
+
+
+configuration d'un fichier 
+
+```
+sudo nano /var/www/html/wp-config.php`
+```
+
+```
+define( 'DB_NAME', 'wordpress_db' );
+define( 'DB_USER', 'wp_user' );
+define( 'DB_PASSWORD', 'P@ssword/59' );
+
+define( 'DB_HOST', '10.10.30.X' );
+```
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260331111237.png)
+
+
+
+
+
+

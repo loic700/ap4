@@ -17,19 +17,12 @@ Install AD (HVO.local)
 Création des GPO
 - Outils  --> strategie de groupes 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mise en place des GPO , ajout des Groupe au GPO ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310091555.png)
 
+Mise en place de Urbackup :
+admin
+P@ssword/59
 
+
+Configuration sur le server windows siteB un partage de fichier relier a Urbackup
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260331094609.png)
