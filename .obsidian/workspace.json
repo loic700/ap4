@@ -135,14 +135,12 @@
             "id": "e2d6ec6725d5f4e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Document technique/Installation nextcloud - docker.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20260213115404.png"
               },
-              "icon": "lucide-file",
-              "title": "Installation nextcloud - docker"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260213115404"
             }
           }
         ],
@@ -266,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Document technique/Installation nextcloud - docker.md",
+                "file": "images/Pasted image 20260213115404.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Installation nextcloud - docker"
+              "title": "Plan de Pasted image 20260213115404"
             }
           },
           {
@@ -304,23 +302,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e2d6ec6725d5f4e5",
+  "active": "40ebe8c7d842d0ed",
   "lastOpenFiles": [
+    "Document technique/install srv-web.md",
+    "Document technique/Install srv-bdd.md",
+    "Document technique/Installation SRV windows.md",
     "Document technique/Installation d'un Pfsense.md",
+    "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf",
+    "Mission 1/Contexte du projet.pdf",
+    "Document technique/Zabbix.md",
+    "Document technique/installation Pfsense siteB.md",
     "Document technique/Installation nextcloud - docker.md",
     "images/Pasted image 20260331115523.png",
-    "Document technique/installation Pfsense siteB.md",
-    "Document technique/Zabbix.md",
-    "Document technique/Install srv-bdd.md",
-    "Document technique/install srv-web.md",
-    "Document technique/Installation SRV windows.md",
     "images/Pasted image 20260331111237.png",
     "images/Pasted image 20260331111219.png",
     "images/Pasted image 20260331094609.png",
     "images/Pasted image 20260324114503.png",
     "images/Pasted image 20260324092654.png",
-    "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf",
-    "Mission 1/Contexte du projet.pdf",
     "images/Pasted image 20260310091555.png",
     "images/pfsense_gateways2.png",
     "images/Pasted image 20260310085818.png",

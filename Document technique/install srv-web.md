@@ -10,8 +10,19 @@ srv-web
 P@ssword/59
 
 Installation du package apache2
+- configuration site worldpress
+- configuration fichier de synchronisation db
 
 
+
+
+
+
+
+
+
+
+Réalisation :
 config sur 
 
 
@@ -41,15 +52,6 @@ config sur
 
 
 
-creation bdd
-
-```
-CREATE DATABASE wordpress_db;
-CREATE USER 'wp_user'@'10.10.30.1' IDENTIFIED BY 'P@ssword/59';
-GRANT ALL PRIVILEGES ON wordpress_db.* TO 'wp_user'@'10.10.30.1';
-FLUSH PRIVILEGES;
-EXIT;
-```
 
 
 configuration d'un fichier 

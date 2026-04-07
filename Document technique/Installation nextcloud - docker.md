@@ -13,6 +13,18 @@ IP : 10.10.10.1
 Masque : 255.255.255.0
 Passerelle : 10.10.10.254
 
+Installation de docker 
+configuration d'un docker compose 
+installation nginx
+configuration nginx
+configuration du site 
+
+
+
+
+
+
+Réalisation : 
 config du docker compose 
 
 ```

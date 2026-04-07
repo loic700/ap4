@@ -9,6 +9,37 @@ P@ssword/59
 
 install DHCP 
 - Mise en place des plage
+- 10.10.10.0 - serveur
+- 10.10.20.0 - admin
+- 10.10.30.0 - client
+Install DNS 
+Install AD (HVO.local)
++ Création des Uo
+* Création des User
+Création des GPO
+- Outils  --> strategie de groupes 
+* installation des GPO 
+	* Nom de la GPO : GPO_COM_Utilisateurs 
+		* Interdire l’accès au panneau de configuration 
+		* Désactiver l’invite de commandes (cmd) 
+		* Interdire PowerShell  
+		* Empêcher l’installation de logiciels 
+
+	* Nom de la GPO : GPO_TECH_Utilisateurs  
+		* Accès limité au panneau de configuration (lecture seule) 
+		* invite de commandes autorisée 
+		* PowerShell autorisé
+
+Installation Urbackup
+* Configuration du service 
+
+
+
+
+
+Réalisation: 
+install DHCP 
+- Mise en place des plage
 Install DNS 
 Install AD (HVO.local)
 + Création des Uo
