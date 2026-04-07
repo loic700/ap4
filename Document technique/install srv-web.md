@@ -4,7 +4,7 @@ ssh -J admin@192.168.202.11 srv-web@10.10.30.1
 ```
 IP : 10.10.30.1
 Masque : 255.255.255.0
-Passerelle : 10.10.10.254
+Passerelle : 10.10.30.254
 
 srv-web
 P@ssword/59

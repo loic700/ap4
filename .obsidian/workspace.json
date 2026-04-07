@@ -135,12 +135,14 @@
             "id": "e2d6ec6725d5f4e5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20260213115404.png"
+                "file": "Document technique/install srv-web.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260213115404"
+              "icon": "lucide-file",
+              "title": "install srv-web"
             }
           }
         ],
@@ -264,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20260213115404.png",
+                "file": "Document technique/install srv-web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Pasted image 20260213115404"
+              "title": "Plan de install srv-web"
             }
           },
           {
@@ -302,10 +304,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "40ebe8c7d842d0ed",
+  "active": "e2d6ec6725d5f4e5",
   "lastOpenFiles": [
-    "Document technique/install srv-web.md",
     "Document technique/Install srv-bdd.md",
+    "images/Pasted image 20260213115404.png",
+    "Document technique/install srv-web.md",
     "Document technique/Installation SRV windows.md",
     "Document technique/Installation d'un Pfsense.md",
     "Mission 1/Mission 1 _ Infrastructure système et réseau (1).pdf",
@@ -322,7 +325,6 @@
     "images/Pasted image 20260310091555.png",
     "images/pfsense_gateways2.png",
     "images/Pasted image 20260310085818.png",
-    "images/Pasted image 20260310085715.png",
     "SRV windows.md",
     "images",
     "Bienvenue.md",
