@@ -30,47 +30,89 @@ config du docker compose
 ```
 version: '3.8'
 
-services:
-  db:
-    image: mariadb:10.6
-    container_name: nextcloud_db
-    restart: always
-    command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW
-    environment:
-      - MYSQL_ROOT_PASSWORD=K3p5_88_mZqR92_Secure_Root
-      - MYSQL_PASSWORD=Nc_User_2026_Lx_Strong_Pass
-      - MYSQL_DATABASE=nextcloud
-      - MYSQL_USER=nextcloud
-    volumes:
-      - /home/fl_ap4_docker01/nextcloud/db:/var/lib/mysql
-    networks:
-      - proxy-net
+  
 
-  app:
-    image: nextcloud:stable-apache
-    container_name: nextcloud_app
-    restart: always
-    ports:
-      - "8080:80" # Permet à Nginx (sur la machine) de parler au Docker
-    environment:
-      - MYSQL_HOST=db
-      - MYSQL_DATABASE=nextcloud
-      - MYSQL_USER=nextcloud
-      - MYSQL_PASSWORD=Nc_User_2026_Lx_Strong_Pass
-      - NEXTCLOUD_TRUSTED_DOMAINS=cloud.local 10.10.10.1
-      - OVERWRITEHOST=10.10.10.1
-      - OVERWRITEPROTOCOL=http
-      - TRUSTED_PROXIES=127.0.0.1 # Comme Nginx est sur la machine, c'est l'IP locale
-    volumes:
-      - /home/fl_ap4_docker01/nextcloud/data:/var/www/html
-    depends_on:
-      - db
-    networks:
-      - proxy-net
+services:
+
+  db:
+
+    image: mariadb:10.6
+
+    container_name: nextcloud_db
+
+    restart: always
+
+    command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW
+
+    environment:
+
+      - MYSQL_ROOT_PASSWORD=K3p5_88_mZqR92_Secure_Root
+
+      - MYSQL_PASSWORD=Nc_User_2026_Lx_Strong_Pass
+
+      - MYSQL_DATABASE=nextcloud
+
+      - MYSQL_USER=nextcloud
+
+    volumes:
+
+      - /home/fl_ap4_docker01/nextcloud/db:/var/lib/mysql
+
+    networks:
+
+      - proxy-net
+
+  
+
+  app:
+
+    image: nextcloud:stable-apache
+
+    container_name: nextcloud_app
+
+    restart: always
+
+    ports:
+
+      - "8080:80" # Permet à Nginx (sur la machine) de parler au Docker
+
+    environment:
+
+      - MYSQL_HOST=db
+
+      - MYSQL_DATABASE=nextcloud
+
+      - MYSQL_USER=nextcloud
+
+      - MYSQL_PASSWORD=Nc_User_2026_Lx_Strong_Pass
+
+      - NEXTCLOUD_TRUSTED_DOMAINS=cloud.local 10.10.10.1
+
+      - OVERWRITEHOST=10.10.10.1
+
+      - OVERWRITEPROTOCOL=http
+
+      - TRUSTED_PROXIES=127.0.0.1 # Comme Nginx est sur la machine, c'est l'IP locale
+
+    volumes:
+
+      - /home/fl_ap4_docker01/nextcloud/data:/var/www/html
+
+    depends_on:
+
+      - db
+
+    networks:
+
+      - proxy-net
+
+  
 
 networks:
-  proxy-net:
-    external: true
+
+  proxy-net:
+
+    external: true
 ```
 
 
