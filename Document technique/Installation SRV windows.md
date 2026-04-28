@@ -32,7 +32,7 @@ Création des GPO
 
 Installation Urbackup
 * Configuration du service 
-
+http://10.10.10.10:55414/
 
 
 

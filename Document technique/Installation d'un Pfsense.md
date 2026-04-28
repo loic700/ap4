@@ -37,16 +37,16 @@ client + admin DNS vers gestion
 Admin vers gestion admin AD
 
 Mise en place de differante regle 
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100532.png)
+
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100619.png)
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100640.png)
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100653.png)
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100714.png)
+![Configuration des Gateways pfSense](../images/Pasted%20image%2020260428100728.png)
 
 
 
-
-
-![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085447.png)
-
-![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085607.png)
-
-![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085715.png)
 
 Mise en place du Nat en hybrid outbound nat rule generation ( automatic Outbound NAT+ rules below)
 ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260310085818.png)

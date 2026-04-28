@@ -17,7 +17,7 @@ Installation de docker
 configuration d'un docker compose 
 installation nginx
 configuration nginx
-configuration du site 
+configuration du site
 
 
 
@@ -145,3 +145,20 @@ server {
 
 ![Configuration des Gateways pfSense](../images/Pasted%20image%2020260331115523.png)
 
+fichier netplan 
+```
+network:
+  version: 2
+  ethernets:
+    ens160:
+#      dhcp4: yes
+      addresses:
+      - "10.10.10.1/24"
+      nameservers:
+        addresses:
+        - 10.10.10.10
+        search: []
+      routes:
+      - to: "default"
+        via: "10.10.10.254"
+```
